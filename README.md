@@ -9,6 +9,13 @@
 
 </div>
 
+<div align="center">
+  <a href="https://github.com/ViniciusSilva18/bot-telegram-cripto">
+    <img src="https://komarev.com/ghpvc/?username=ViniciusSilva18-bot-telegram-cripto&label=Visualiza%C3%A7%C3%B5es&color=06b6d4&style=flat" alt="Views" />
+  </a>
+</div>
+
+
 ## ✨ Comandos
 | Comando | Descrição |
 |---|---|
